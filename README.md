@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishaankaul210104" alt="ishaankaul210104" /></a> </p>
 
+---
+
+## 📌 About Me
+- 🎓 Final-year **B.Tech CSE** student specializing in **Data Science** & **AI/ML**
+- 🌱 Exploring **Generative AI**, **RAG**, **LLM fine-tuning**
+- 📫 Reach me at **[ishaank402@gmail.com](mailto:ishaank402@gmail.com)**
+- 📄 [View my resume](https://drive.google.com/file/d/1tlD-GDTRWGVfQmmIo9aXasg1ymyeBIuM/view?usp=sharing)
+
+---
+
 - 📫 How to reach me **ishaank402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
