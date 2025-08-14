@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 - 🎓 Final-year **B.Tech CSE** student specializing in **Data Science** & **AI/ML**
-- 🌱 Exploring **Generative AI**, **RAG**, **LLM fine-tuning**
+- 🌱 Exploring **Generative AI**, **RAG**, and **LLM fine-tuning**
 - 📫 Reach me at **[ishaank402@gmail.com](mailto:ishaank402@gmail.com)**
 - 📄 [View my resume](https://drive.google.com/file/d/1tlD-GDTRWGVfQmmIo9aXasg1ymyeBIuM/view?usp=sharing)
 
